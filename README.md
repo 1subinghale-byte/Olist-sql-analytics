@@ -40,6 +40,8 @@ Olist Analytics Database
      ├── Fact Tables
      └── Analysis Layer
 
+---
+
 ## Data insights from the Analysis.SQL file
 
 1. Overall Trend
